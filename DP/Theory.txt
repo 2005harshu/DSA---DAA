@@ -1,0 +1,8 @@
+Approach
+optimization
+problem > sub problem
+reduce overlapping
+
+Memoization : top-down approach; from main prob to base case
+
+Tabulation : from base case to main prob ; bottom-up approach
